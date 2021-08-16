@@ -23,6 +23,6 @@
 </div>
                           
  <h2>Desenvolvedor Fullstack Jr.</h2>
- <h5>Sou apaixonado pela área do desenvolvimento, especialmente pelo Frontend, curto também desenvolver UI/UX de interfaces!!</h5>
+ <h5>Sou apaixonado pela área do desenvolvimento!!!</h5>
  <h5>▶ Até Breve! ✅</h5>
 </div>
