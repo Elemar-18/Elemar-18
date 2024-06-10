@@ -14,6 +14,7 @@
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,7 +23,14 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
                           
- <h2>Desenvolvedor Fullstack Jr.</h2>
- <h5>Sou apaixonado pela área do desenvolvimento!!!</h5>
- <h5>▶ Até Breve! ✅</h5>
+ <h2>Desenvolvedor | JavaScript | Vue | ReactJS | PHP | Laravel</h2>
+ <p>
+    Desenvolvedor com mais de um ano de experiência no mercado de desenvolvimento de software. 
+    Trabalho com tecnologias como HTML, CSS, Laravel (PHP), ReactJS e MySQL.
+ </p>
+ 
+ <p>
+    Busco oportunidades desafiadoras para aplicar minha experiência e conhecimento em um ambiente dinâmico, contribuindo ativamente para o desenvolvimento de projetos inovadores e a entrega de soluções de alta qualidade.
+ </p>
+ <h3>▶ Até Breve! ✅</h3>
 </div>
